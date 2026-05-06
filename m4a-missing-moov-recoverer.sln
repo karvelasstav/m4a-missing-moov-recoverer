@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m4a-missing-moov-recoverer", "m4a-missing-moov-recoverer\m4a-missing-moov-recoverer.vcxproj", "{840AA18E-9A6E-4208-96E0-FA3F95F76D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Debug|x64.ActiveCfg = Debug|x64
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Debug|x64.Build.0 = Debug|x64
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Debug|x86.ActiveCfg = Debug|Win32
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Debug|x86.Build.0 = Debug|Win32
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Release|x64.ActiveCfg = Release|x64
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Release|x64.Build.0 = Release|x64
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Release|x86.ActiveCfg = Release|Win32
+		{840AA18E-9A6E-4208-96E0-FA3F95F76D66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464481B3-7950-466A-8094-089BAC15C8D5}
+	EndGlobalSection
+EndGlobal
