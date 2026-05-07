@@ -18,7 +18,7 @@ since i know most people that stumble on this tool are probably not that well ac
 
 4) go to where your `.m4a` is stored and copy the path to the file including the file (if you hold shift while right clicking you can directly select "copy path")
 
-5) now in your command prompt write `m4a-missing-moov-recoverer.exe --sr 48000 --encode-m4a "your/path/goes/here/file.m4a"` ideally you would also download ffmpeg and then use `--encode-m4a` and also potentially `--ffmpeg` to get an actual m4a at the end of this process, if you don't have them installed yet don't worry you can just ignore this and see if you even get a wav
+5) now in your command prompt write `m4a-missing-moov-recoverer.exe --sr 48000 "your/path/goes/here/file.m4a"` ideally you would also download ffmpeg and then use `--encode-m4a` and also potentially `--ffmpeg` to get an actual m4a at the end of this process, if you don't have them installed yet don't worry you can just ignore this and see if you even get a wav
 
 6) press enter and wait, you should see a lot of checks going quickly by your screen, at some point it should stop and ask you if it should investigate (this means that it managed to create an audio file from the first 64kb which means that most probably you found the correct reading frame), you should answer by pressing `y` and pressing Enter unless you have already tried the specific spot before without success
 
